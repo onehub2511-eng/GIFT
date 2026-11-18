@@ -1,0 +1,15 @@
+QUICK DEPLOY
+
+1) Unzip Dhwani_Midnight_Rose_FullStack.zip
+2) Open a terminal in the extracted project folder
+3) Run: npm install
+4) Run: npm run dev
+5) Open: http://localhost:3000
+
+To create a public link:
+- Push this folder to a GitHub repository and import it at https://vercel.com/new
+  OR run `npx vercel` from this folder.
+- Keep the framework set to Next.js and deploy.
+- Send the HTTPS URL returned by your host.
+
+Node.js 20.9+ is required. Node 22 LTS recommended.
